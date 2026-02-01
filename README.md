@@ -12,4 +12,4 @@ This is my first data analysis project.
 Open the notebook in Google Colab and run the cells.
 
 ## Author
-Abdennour Hemici - Data Science Student
+Abdennour-Hemici - Data Science Student
